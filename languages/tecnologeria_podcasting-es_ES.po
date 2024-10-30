@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-04-17 12:19+0200\n"
+"PO-Revision-Date: 2020-04-17 12:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#: settings.php:31
+msgid "iVoox Shortcode Settings"
+msgstr "Configuración de iVoox Shortcode"
+
+#: settings.php:39
+msgid "Default Color"
+msgstr "Color por defecto"
+
+#: settings.php:55 settings.php:63
+msgid "settings_updated"
+msgstr "Configuración actualizada"
+
+#: settings.php:56
+msgid "Wrong HTML color format. Use #RRGGBB or #RGB instead."
+msgstr "Formato de color incorrecto. Use el formato #RRGGBB or #RGB."
+
+#: settings.php:64
+msgid "Color updated."
+msgstr "Color actualizado."
+
+#: settings.php:74
+msgid ""
+"Set the default configuration to be used by iVoox shortcodes across your "
+"site."
+msgstr ""
+"Introduzca la configuración por defecto que se usará con los shortcodes de "
+"iVoox en todo el sitio web."
+
+#: settings.php:97
+msgid "La Tecnologer&iacute;a Podcasting Settings"
+msgstr "Configuración de La Tecnologer&iacute;a Podcasting"
+
+#: settings.php:98
+msgid "La Tecnologer&iacute;a Podcasting"
+msgstr "La Tecnologer&iacute;a Podcasting"
+
+#: settings.php:111
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tiene suficientes permisos para acceder a esta página."
+
+#: tecnologeria-podcasting.php:103 tecnologeria-podcasting.php:123
+#: tecnologeria-podcasting.php:139
+msgid "iVoox shortcode error: id field missing"
+msgstr "Error en iVoox shortcode: falta el campo id"
+
+#: tecnologeria-podcasting.php:105
+msgid "iVoox shortcode error: wrong HTML color value"
+msgstr "Error en iVoox shortcode: formato HTML de color incorrecto."
+
+#: tecnologeria-podcasting.php:172
+msgid "Youtube player error: id field missing"
+msgstr "Error en reproductor de Youtube: falta el identificador del video"
+
+#~ msgid "La Tecnologer&iacute;a Podcasting Plugin Settings"
+#~ msgstr "Configuración del Plugin La Tecnologer&iacute;a Podcasting"
+
+#~ msgid "iVoox Shortcode Plugin Settings"
+#~ msgstr "Configuración del plugin iVoox Shortcode"
+
+#~ msgid ""
+#~ "These settings ease the use of iVoox Shortcode Plugin across your webpage."
+#~ msgstr ""
+#~ "Esta configuración pretende facilitar el uso del plugin iVoox Shortcode "
+#~ "en su página web."
+
+#~ msgid "iVoox Shortcode Plugin"
+#~ msgstr "Plugin iVoox Shortcode"
+
+#~ msgid "iVoox Shortcode Plugin Configuration"
+#~ msgstr "Configuración del plugin "
+
+#~ msgid "iVoox Plugin Settings"
+#~ msgstr "Configuración del plugin"
+
+#~ msgid "iVoox Settings"
+#~ msgstr "Configuración de iVoox Shortcode"
+
+#~ msgid "iVoox Plugin"
+#~ msgstr "iVoox Shortcode Plugin"
+
+#~ msgid "iVoox Shortcode Plugin Template"
+#~ msgstr "Plantilla para iVoox Shortcode Plugin"
